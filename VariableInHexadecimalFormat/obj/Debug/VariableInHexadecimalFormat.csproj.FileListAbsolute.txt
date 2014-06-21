@@ -1,0 +1,6 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

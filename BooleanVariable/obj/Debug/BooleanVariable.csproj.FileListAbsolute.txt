@@ -1,0 +1,6 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\momo\documents\visual studio 2012\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+c:\users\momo\documents\visual studio 2012\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.exe
+c:\users\momo\documents\visual studio 2012\Projects\Primitive Data Types and Variables\FloatorDouble\bin\Debug\FloatorDouble.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.exe
+c:\users\momo\documents\visual studio 2012\Projects\Primitive Data Types and Variables\FloatorDouble\obj\Debug\FloatorDouble.pdb

@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Primitive Data Types and Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
